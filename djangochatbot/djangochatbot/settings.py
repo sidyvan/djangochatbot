@@ -42,7 +42,7 @@ CHATTERBOT = {
          'chatterbot.corpus.portuguese.proverbs',
          'chatterbot.corpus.portuguese.suggestions',
          'chatterbot.corpus.portuguese.trivia',
-         'chatterbot.corpus.portuguese.estagiario',
+    
     ]
 }
 
