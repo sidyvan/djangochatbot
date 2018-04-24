@@ -1,7 +1,7 @@
 # djangochatbot
 ChatterBot and Django 1.11
 
-Istale o Virtualenv para a criação do ambiênte virtual
+Instale o Virtualenv para a criação do ambiênte virtual
 $ virtualenv -p python3 env
 
 Ative o ambiente
